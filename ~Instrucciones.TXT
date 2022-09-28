@@ -1,0 +1,7 @@
+El archivo main_training genera una red neuronal.
+Esto puede tardar unos minutos (normalmente 3-5).
+No hay mensaje al terminar, simplemente se cierra.
+
+El archivo cargar_partida_anterior usa uno de los archivos generados por main_training y abre una ventana para jugar contra esa red neuronal.
+Por defecto está una red de prueba creada anteriormente.
+Para jugar contra una creada hay que abrir cargar_partida_anterior y cambiar el directorio del archivo de la red por el de la red deseada.
